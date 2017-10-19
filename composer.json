@@ -1,0 +1,7 @@
+{
+    "name": "creode/magento2-base",
+    "description": "Base Magento2 package for Creode modules",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
