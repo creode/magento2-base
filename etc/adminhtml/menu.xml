@@ -3,6 +3,6 @@
     xsi:noNamespaceSchemaLocation="../../../../Magento/Backend/etc/menu.xsd">
     <menu>
         <add id="Creode_Base::creode" title="Creode" module="Creode_Base"
-            sortOrder="10" resource="Magento_Backend::content" />
+            sortOrder="100" resource="Magento_Backend::content" />
     </menu>
 </config>

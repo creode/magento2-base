@@ -1,0 +1,12 @@
+.admin__menu .level-0.item-creode > a:before {
+    display: inline-block;
+    content: "";
+    background: url('../images/creode-logo.svg') no-repeat center center;
+    background-size: 100%;
+    height: 40px;
+    width: 70px;
+}
+
+.admin__menu .level-0.item-creode > a span {
+    display: none;
+}
